@@ -23,11 +23,17 @@ rest is for home.html
 .oneColumn{
   margin-left:10%;
   margin-right:10%;
+  border-radius:10px;
 }
 .firstImage{
   float:right;
   width:30%;
   margin-left:10px;
+}
+.formDiv{
+  padding:10px 0px 10px 10px;
+  border-style:solid;
+  border-radius: 10px;
 }
 
 /*
