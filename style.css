@@ -13,5 +13,14 @@ body{
   margin: 10px;
   border-style: solid;
   border-color: chartreuse;
+}
 
+.oneColumn{
+  margin-left:10%;
+  margin-right:10%;
+}
+.firstImage{
+  float:right;
+  width:30%;
+  margin-left:10px;
 }
