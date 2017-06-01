@@ -1,2 +1,4 @@
 # GoodCause
-day 3
+### Things to do
+- thanks.html
+- donate.html
