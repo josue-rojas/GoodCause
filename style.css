@@ -14,7 +14,12 @@ body{
   border-style: solid;
   border-color: chartreuse;
 }
-
+.noLine{
+  text-decoration:none;
+}
+/*
+rest is for home.html
+*/
 .oneColumn{
   margin-left:10%;
   margin-right:10%;
@@ -23,4 +28,21 @@ body{
   float:right;
   width:30%;
   margin-left:10px;
+}
+
+/*
+rest is for thanks.html
+*/
+.thanksContainer{
+  margin:0% 10% 0% 10%;
+  background-color:#b3cbf2;
+  border-radius:10px;
+  border-style:solid;
+  border-color:chartreuse;
+
+}
+.thankyouImage{
+  width: 40%;
+  margin:0px 0px 30px 0px;
+  border-radius: 10px;
 }
