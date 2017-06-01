@@ -1,9 +1,17 @@
 h1,h2,h3{
 font-family: cursive;
-color: orange;
+color: chartreuse;
 }
 
 body{
   background-color: lightblue;
+
+}
+.logo{
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  border-style: solid;
+  border-color: chartreuse;
 
 }
