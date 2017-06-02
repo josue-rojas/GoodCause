@@ -1,3 +1,6 @@
+/*
+the rest is for everything (although you can reuse classes for others)
+*/
 h1,h2,h3{
 font-family: cursive;
 color: chartreuse;
@@ -13,9 +16,13 @@ body{
   margin: 10px;
   border-style: solid;
   border-color: chartreuse;
+  padding:2px;
 }
 .noLine{
   text-decoration:none;
+}
+.noMargin{
+  margin:0px;
 }
 /*
 rest is for home.html
@@ -29,11 +36,13 @@ rest is for home.html
   float:right;
   width:30%;
   margin-left:10px;
+  border-radius:10px
 }
 .formDiv{
   padding:10px 0px 10px 10px;
   border-style:solid;
   border-radius: 10px;
+  background-color:#b3b8e0;
 }
 
 /*
@@ -41,7 +50,7 @@ rest is for thanks.html
 */
 .thanksContainer{
   margin:0% 10% 0% 10%;
-  background-color:#b3cbf2;
+  background-color:#b3b8e0;
   border-radius:10px;
   border-style:solid;
   border-color:chartreuse;
